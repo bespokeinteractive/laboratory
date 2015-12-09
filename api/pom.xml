@@ -4,9 +4,9 @@
 	<parent>
 		<groupId>org.openmrs.module</groupId>
 		<artifactId>laboratory</artifactId>
-		<version>0.6.0</version>
+		<version>0.6.1-SNAPSHOT</version>
 	</parent>
-	<groupId>org.openmrs.module</groupId>
+
 	<artifactId>laboratory-api</artifactId>
 	<packaging>jar</packaging>
 	<name>Laboratory API</name>
