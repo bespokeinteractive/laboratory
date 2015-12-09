@@ -7,6 +7,7 @@
 		<version>0.6.1-SNAPSHOT</version>
 	</parent>
 
+
 	<artifactId>laboratory-api</artifactId>
 	<packaging>jar</packaging>
 	<name>Laboratory API</name>
